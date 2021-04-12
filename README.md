@@ -15,5 +15,4 @@ is the Insisting on moving forward and not giving up at all, in addition to self
 4. Celebrate growth with others.
 ```
 
-
 [read 01](Read-01-LearningMarkdown.md)
