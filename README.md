@@ -16,3 +16,4 @@ is the Insisting on moving forward and not giving up at all, in addition to self
 ```
 
 [read 01](Read-01-LearningMarkdown.md)
+[read 02](https://replit.com/@Mohammadatta/reading-notes-1#read02.md)
