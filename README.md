@@ -8,5 +8,9 @@ this is will be my list read
 | 3 |  [ read03 ](https://mr-atta.github.io/reading-notes/read03)  |                                                                                  
 | 4a |[ read04a ](https://mr-atta.github.io/reading-notes/read04a)|
 | 4b |[ read04b ](https://mr-atta.github.io/reading-notes/read04b)|
+<<<<<<< HEAD
 |05  |[ read05 ](https://mr-atta.github.io/reading-notes/read05) |
 |06  |[ read06 ](https://mr-atta.github.io/reading-notes/read06) |
+=======
+|05  |[ read05 ](https://mr-atta.github.io/reading-notes/read05) |
+>>>>>>> adf5b70c3fd83dab760637b5a52f0e171058a1e8
