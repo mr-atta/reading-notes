@@ -10,4 +10,4 @@ this is will be my list read
 | 4b |[ read04b ](https://mr-atta.github.io/reading-notes/read04b)|
 |05  |[ read05 ](https://mr-atta.github.io/reading-notes/read05) |
 |06  |[ read06 ](https://mr-atta.github.io/reading-notes/read06) |
-|05  |[ read05 ](https://mr-atta.github.io/reading-notes/read05) |
+|07  |[ read07 ](https://mr-atta.github.io/reading-notes/read07) |
