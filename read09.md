@@ -61,7 +61,6 @@
 
 * So where are we?  **pwd**
 * What's in Our Current Location?  **ls**
- > ls [options] 
 * Absolute and Relative Paths **absolute** and **relative**
 * Move Around a Bit  **cd ** 
  > cd
