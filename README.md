@@ -11,7 +11,11 @@ this is will be my list read
 |05  |[ read05 ](https://mr-atta.github.io/reading-notes/read05) |
 |06  |[ read06 ](https://mr-atta.github.io/reading-notes/read06) |
 |07  |[ read07 ](https://mr-atta.github.io/reading-notes/read07) |
+<<<<<<< HEAD
 |09  |[ read09 ](https://mr-atta.github.io/reading-notes/read09) |
 |  |  |
 |00|201|
 |01|[read 01]()|
+=======
+|09  |[ read09 ](https://mr-atta.github.io/reading-notes/read09) |
+>>>>>>> a4d4563fdc807e8b8f9cb57ffd900bcd9f5927b1
