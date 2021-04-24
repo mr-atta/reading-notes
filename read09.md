@@ -1,4 +1,4 @@
-# ***  A Text Editor. ***
+#  ___A Text Editor___
  ## * What is a text editor? *
  * A text editor is a piece of software that  you download and install on
   your computer, or you access online through your web browser, that
@@ -32,8 +32,7 @@
 “Text Edit.”
 - On Windows computers, is called,
   “Notepad.”
-*  ** Since these text editors already come   on your computers, why should
- you download another text editor ? **
+*  ** Since these text editors already come   on your computers, why should you download another text editor ? **
 
 * If you want to using the text editors that come with your computer **!!**
  there’s a couple of caveats that I’d like to make you aware of:
