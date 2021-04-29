@@ -37,7 +37,6 @@
   - like id, but to more than one element
 * Block Elements
   - start on a new line in the browser window, when we have many statements
-<<<<<<< HEAD
   - Examples : `<h1>`, `<p>`, `<ul>`, `<li>`
 * Inline Elements
   - Some elements be on the same line
@@ -46,7 +45,7 @@
 * `<div>` , Grouping Text & Elements In a Block
  > group elements together in block 
 * `<span>` , Grouping Text & Elements Inline
-=======
+
   - Examples : <h1>, <p>, <ul>, <li>
 * Inline Elements
   - Some elements be on the same line
@@ -55,7 +54,6 @@
 * <div> , Grouping Text & Elements In a Block
  > group elements together in block 
 * <span> , Grouping Text & Elements Inline
->>>>>>> 7db77f934047541255eca24b7b6c0ea2764bd518
 * IFrames
   - a little window in your page, in that window you can see another page.
   - you will need 
@@ -64,7 +62,6 @@
     - width
 
 * Information About Your Page
-<<<<<<< HEAD
   * ` <meta> `
   * inside the ` <head> `
   * not visible to users
@@ -117,8 +114,6 @@
 
 output: &nbsp ___HTML & CSS: Design and Build Web Sites___
   bookdown::https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:25671887-83dc-4fff-81c7-469ffdd4112e: default
-=======
   *  <meta> 
   * inside the <head>
   * not visible to users
->>>>>>> 7db77f934047541255eca24b7b6c0ea2764bd518
