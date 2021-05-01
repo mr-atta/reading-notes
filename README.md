@@ -19,3 +19,4 @@ this is will be my reading list
 |03|[read201 03](https://mr-atta.github.io/reading-notes/201/read23)|
 |04|[read201 04](https://mr-atta.github.io/reading-notes/201/read24)|
 |05|[read201 05](https://mr-atta.github.io/reading-notes/201/read25)|
+|06|[read201 06](https://mr-atta.github.io/reading-notes/201/read26)|
