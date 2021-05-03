@@ -1,7 +1,10 @@
-# 15 : Layout 
+# 15 : Layout <dr><br>
 
-### Building Blocks
-* CSS and HTML element are be in boxs. This box wil be a block-level box or an inline box.
+### Building Blocks 
+<br>
+
+> CSS and HTML element are be in boxs. This box wil be a block-level box or an inline box.
+
 ![inline and block](https://data-flair.training/blogs/wp-content/uploads/sites/2/2020/06/Block-level-Inline-elements-in-html-df.jpg)
 > Block-level elements start on a new line 
 * Examples include:
@@ -37,10 +40,7 @@
 * Clearing Floats
   * clear
     * left , right , both , none
-
-
-## HTML5 Layout
-- There are many virgins or styles from HTML, There are some differences between them. we are use **HTML5**.    
+  
 
 
 ## Screen Sizes
