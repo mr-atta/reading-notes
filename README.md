@@ -23,3 +23,4 @@ this is will be my reading list
 | 07  | [read201 07](https://mr-atta.github.io/reading-notes/201/read27)  |
 | 08  | [read201 08](https://mr-atta.github.io/reading-notes/201/read28)  |
 | 09  | [read201 09](https://mr-atta.github.io/reading-notes/201/read29)  |
+| 10  | [read201 10](https://mr-atta.github.io/reading-notes/201/read210) |
