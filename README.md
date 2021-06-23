@@ -3,6 +3,7 @@ this is will be my reading list
 
 |     | Reading notes                                                       |
 | --- | ------------------------------------------------------------------- |
+| 00  | Code 102                                                            |
 | 1   | [read 01](https://mr-atta.github.io/reading-notes/growth-mindset)   |
 | 2   | [read 02](https://mr-atta.github.io/reading-notes/read02)           |
 | 3   | [ read03 ](https://mr-atta.github.io/reading-notes/read03)          |
@@ -13,7 +14,7 @@ this is will be my reading list
 | 07  | [ read07 ](https://mr-atta.github.io/reading-notes/read07)          |
 | 09  | [ read09 ](https://mr-atta.github.io/reading-notes/read09)          |
 |     |                                                                     |
-| 00  | 201                                                                 |
+| 00  | Code 201                                                            |
 | 01  | [read201 01](https://mr-atta.github.io/reading-notes/201/read21)    |
 | 02  | [read201 02](https://mr-atta.github.io/reading-notes/201/read22)    |
 | 03  | [read201 03](https://mr-atta.github.io/reading-notes/201/read23)    |
@@ -29,3 +30,5 @@ this is will be my reading list
 | 13  | [read201 13](https://mr-atta.github.io/reading-notes/201/read213)   |
 | 14a | [read201 14a](https://mr-atta.github.io/reading-notes/201/read214a) |
 | 14b | [read201 14b](https://mr-atta.github.io/reading-notes/201/read214b) |
+| 00  | Code 301                                                            |
+
