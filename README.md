@@ -33,4 +33,5 @@ this is will be my reading list
 | 00  | Code 301                                                            |
 | 01  | [read301 01](https://mr-atta.github.io/reading-notes/301/read301.1) |
 | 02  | [read301 02](https://mr-atta.github.io/reading-notes/301/read301.2) |
+| 03  | [read301 03](https://mr-atta.github.io/reading-notes/301/read301.3) |
 
