@@ -26,4 +26,3 @@
   * The spread operator is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.[♥️from](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab) 
   ![ Spread Operator](https://miro.medium.com/max/1000/1*oB0L8ezFrNnU9aR55BrEng.png)
 
-![map](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0F9mW0ilINAhFGAG_jjiLxXJDl9oxX2XCYA&usqp=CAU)
