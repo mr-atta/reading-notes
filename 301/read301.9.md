@@ -24,20 +24,20 @@
  > Modules and require()
 
 
- ## What is a module? 
+ ## What is a module❓
    > A module is a file. One script is one module. 
 
    > Modules can load each other and use special directives export and import to interchange functionality, call functions of one module from another one.
 
- ## What does the word ‘require’ do?
+ ## What does the word ‘require’ do❓
  > Global , take a path.
 
  > The require() method is used to load and cache JavaScript modules. So, if you want to load a local, relative JavaScript module into a Node. js application, you can simply use it.
 
- ## How do we bring another module into the file the we are working in?
+ ## How do we bring another module into the file the we are working in❓
    >  require('./<name>.path') 
 
- ## What do we have to do to make a module available?
+ ## What do we have to do to make a module available❓
    > module.exports=<router>
 
 
