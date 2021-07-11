@@ -42,4 +42,5 @@ this is will be my reading list
 | 09  | [read301 09](https://mr-atta.github.io/reading-notes/301/read301.9) |
 | 10  | [read301 10](https://mr-atta.github.io/reading-notes/301/read301.10) |
 | 11  | [read301 11](https://mr-atta.github.io/reading-notes/301/read301.11) |
+| 12  | [read301 12](https://mr-atta.github.io/reading-notes/301/read301.12) |
 
