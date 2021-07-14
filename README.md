@@ -1,5 +1,5 @@
 Im Mohammad Atta
-this is will be my reading list
+this is will be my reading notes
 
 |     | Reading notes                                                       |
 | --- | ------------------------------------------------------------------- |
@@ -45,5 +45,11 @@ this is will be my reading list
 | 12  | [read301 12](https://mr-atta.github.io/reading-notes/301/read301.12) |
 | 13  | [read301 13](https://mr-atta.github.io/reading-notes/301/read301.13) |
 | 14  | [read301 14](https://mr-atta.github.io/reading-notes/301/read301.14) |
+
+
+
+ > [notes](/home/matta/reading-notes/301/notes.md)
+
+
 
 
