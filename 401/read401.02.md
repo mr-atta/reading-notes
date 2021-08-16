@@ -47,13 +47,15 @@
 <br>
 <hr>
 
-## Compare and contrast SOAP and ReST ?s
+## Compare and contrast SOAP and REST ?
 
-- SOAP is a XML-based message protocol, while REST is an architectural style
+- SOAP is a XML-based message protocol, and REST is an architectural style
 - SOAP uses WSDL for communication between consumer and provider, whereas REST just uses XML or JSON to send and receive data
-- SOAP uses WSDL for communication between consumer and provider, whereas REST just uses XML or JSON to send and receive data
-- SOAP uses WSDL for communication between consumer and provider, whereas REST just uses XML or JSON to send and receive data
-- SOAP uses WSDL for communication between consumer and provider, whereas REST just uses XML or JSON to send and receive data
+- SOAP invokes services by calling RPC method, REST just simply calls services via URL path
+
+- SOAP doesn't return human readable result, whilst REST result is readable with is just plain XML or JSON
+
+- SOAP is not just over HTTP, it also uses other protocols such as SMTP, FTP, etc, REST is over only HTTP
 
 ### SOAP
 
@@ -63,7 +65,7 @@
 ### REST
 
 - Representational state transfer
-- is an application programming interface that conforms with REST architectural style and allows for interaction with RESTful web services.
+- is an application programming _interface_ that conforms with REST architectural style and allows for _interaction_ with RESTful web services.
 
 <br>
 <hr>
