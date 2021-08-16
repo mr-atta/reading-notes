@@ -55,5 +55,6 @@ and this is will be my reading notes for the cours
 | --- | -------------------------------------------------------------------- |
 | 01  | [read401 01](https://mr-atta.github.io/reading-notes/401/read401.01) |
 | 02  | [read401 02](https://mr-atta.github.io/reading-notes/401/read401.02) |
+| 03  | [read401 03](https://mr-atta.github.io/reading-notes/401/read401.03) |
 
 > [fisrt notes 401](/401/startingNote401.md)
