@@ -59,13 +59,10 @@ and this is will be my reading notes for the cours
 | 04  | [read401 04](https://mr-atta.github.io/reading-notes/401/read401.04) |
 | 05  | [read401 05](https://mr-atta.github.io/reading-notes/401/read401.05) |
 | 06  | [read401 06](https://mr-atta.github.io/reading-notes/401/read401.06) |
+| 07  | [read401 07](https://mr-atta.github.io/reading-notes/401/read401.07) |
 
 <!--
 
-
-| 02  | [read401 02](https://mr-atta.github.io/reading-notes/401/read401.02) |
-| 03  | [read401 03](https://mr-atta.github.io/reading-notes/401/read401.03) |
-| 04  | [read401 04](https://mr-atta.github.io/reading-notes/401/read401.04) |
 | 05  | [read401 05](https://mr-atta.github.io/reading-notes/401/read401.05) |
 
 -->
