@@ -40,5 +40,3 @@
   - If any of these steps fail, then the associated request must be rejected.
 
 - <hr><br>
-
-[📁]() <br>
