@@ -24,6 +24,28 @@
 <br>
 <br>
 
+## Event
+
+- Every time you interact with a webpage through it’s user interface, an event is happening. When you click a button a click event is triggered. When you press a key a keydown event is triggered.
+
+* EventEmitter
+  - The EventEmitter instance will emit its own 'newListener' event before a listener is added to its internal array of listeners.
+  - Node.js natively provides us with a useful module called EventEmitter that allows us to get started incorporating Event-Driven Programming in our project right away.
+
+> `const EventEmitter = require('events').EventEmitter;` <br> > `const myEventEmitter = new EventEmitter;`
+
+- lestin
+
+  > `event.on('-event name-', -call back fun-);`
+
+- callback
+  > `events.emit('-event name-', -call back fun-);`
+
+* To remove event listeners in EventEmitter we can use the **removeListener** or **removeAllListeners** method.
+
+<br>
+<br>
+
 [📁 Event Driven Programming](https://www.digitalocean.com/community/tutorials/nodejs-event-driven-programming)
 
 <br>
