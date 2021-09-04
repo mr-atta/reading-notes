@@ -1,6 +1,6 @@
 # Trees
 
-> There is different types of trees such as **Binary Trees**, **Binary Search Trees**, and** K-ary Trees**.
+> There is different types of trees such as **Binary Trees**, **Binary Search Trees**, and**K-ary Trees**.
 
 > **Binary Tree** can have any number of children per node, but Binary Trees restrict the number of children to two (hence our left and right children).
 
