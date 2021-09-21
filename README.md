@@ -75,6 +75,7 @@ and this is will be my reading notes for the cours
 | 20  | [read401 20](https://mr-atta.github.io/reading-notes/401/read401.20) |
 | 21  | [read401 21](https://mr-atta.github.io/reading-notes/401/read401.21) |
 | 22  | [read401 22](https://mr-atta.github.io/reading-notes/401/read401.22) |
+| 23  | [read401 23](https://mr-atta.github.io/reading-notes/401/read401.23) |
 
 <!--
 
