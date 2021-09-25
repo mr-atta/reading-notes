@@ -1,9 +1,9 @@
-Im Mohammad Atta
-and this is will be my reading notes for the cours
+# Im Mohammad Atta
 
-|     | Reading notes                                                     |
-| --- | ----------------------------------------------------------------- |
+# and this is will be my reading notes 📚📚 for the cours
+
 | 00  | Code 102                                                          |
+| --- | ----------------------------------------------------------------- |
 | 1   | [read 01](https://mr-atta.github.io/reading-notes/growth-mindset) |
 | 2   | [read 02](https://mr-atta.github.io/reading-notes/read02)         |
 | 3   | [ read03 ](https://mr-atta.github.io/reading-notes/read03)        |
@@ -51,7 +51,7 @@ and this is will be my reading notes for the cours
 
 > [notes 301](/301/notes.md)
 
-| 00  | Code 401 week one                                                    |
+| 00  | Code 401                                                             |
 | --- | -------------------------------------------------------------------- |
 | 01  | [read401 01](https://mr-atta.github.io/reading-notes/401/read401.01) |
 | 02  | [read401 02](https://mr-atta.github.io/reading-notes/401/read401.02) |
@@ -77,12 +77,7 @@ and this is will be my reading notes for the cours
 | 22  | [read401 22](https://mr-atta.github.io/reading-notes/401/read401.22) |
 | 23  | [read401 23](https://mr-atta.github.io/reading-notes/401/read401.23) |
 | 24  | [read401 24](https://mr-atta.github.io/reading-notes/401/read401.24) |
-
-<!--
-
-| 05  | [read401 05](https://mr-atta.github.io/reading-notes/401/read401.05) |
-
--->
+| 25  | [read401 25](https://mr-atta.github.io/reading-notes/401/read401.25) |
 
 <hr>
 
