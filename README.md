@@ -84,6 +84,7 @@
 | 29  | [read401 29](https://mr-atta.github.io/reading-notes/401/read401.29) |
 | 30  | [read401 30](https://mr-atta.github.io/reading-notes/401/read401.30) |
 | 31  | [read401 31](https://mr-atta.github.io/reading-notes/401/read401.31) |
+| 32  | [read401 32](https://mr-atta.github.io/reading-notes/401/read401.32) |
 
 <hr>
 
